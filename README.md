@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 	<img src ="https://github-readme-streak-stats.herokuapp.com?user=sayanshankhari&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+<p id="mental_state" align="center" width="100%">
+	<img width="50%" src="./assets/kratos-mad-computer-trash.gif">
+</p>
+
 ## For more, please visit repositories below 👇
