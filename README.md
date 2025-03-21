@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... C, Oracle-PL/SQL, Java, Android, HTML5-CSS3-JS1.8-PHP7
-- 🌱 I’m currently learning ... Android
-- 👯 I’m looking to collaborate on ... Solar System
-- 🤔 I’m looking for help with ... Android, Planetarium
+- 🔭 I’m currently working on ... DSA written in C
+- 🌱 I’m currently learning ... C
+- 👯 I’m looking to collaborate on ... AI
+- 🤔 I’m looking for help with ... DSA
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [eMail](mailto:sayan0shankhari@gmail.com)
 - 😄 Pronouns: ... Engineer 👷‍♂️
